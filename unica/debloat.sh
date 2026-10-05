@@ -56,7 +56,6 @@ app/Gmail2
 app/Maps
 app/YouTube
 overlay/GmsConfigOverlaySearchSelector.apk
-priv-app/Messages
 priv-app/SearchSelector
 "
 
@@ -147,6 +146,7 @@ system/priv-app/OMCAgent5
 system/priv-app/OneDrive_Samsung_v3
 system/priv-app/PaymentFramework
 system/priv-app/SamsungCarKeyFw
+system/priv-app/SamsungMessages
 system/priv-app/SamsungPass
 system/priv-app/SamsungPositioning
 system/priv-app/SKMSAgent
