@@ -16,6 +16,11 @@
   <a href="https://github.com/ExtremeXT/ExtremeROM/blob/fifteen/MAINTAINERS">🧑‍💻 Maintainers</a>
 </p>
 
+# Personal Fork Notice
+This a personal fork of ExtremeROM, which means
+- No support
+- No guaranteed updates
+
 # What is ExtremeROM Nexus?
 ExtremeROM Nexus is a work-in-progress custom firmware for Samsung Galaxy devices.
 
